@@ -1,0 +1,6 @@
+@vaultTest_HostAddress = http://localhost:5117
+
+GET {{vaultTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
